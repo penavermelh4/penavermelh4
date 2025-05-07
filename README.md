@@ -1,10 +1,3 @@
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="img/image1.png" width="150" height="150" />
-  <img src="img/image2.png" width="150" height="150" />
-  <img src="img/image3.png" width="150" height="150" />
-  <img src="img/image4.png" width="150" height="150" />
-  <img src="img/image5.png" width="150" height="150" />
-  <img src="img/image6.png" width="150" height="150" />
-  <img src="img/image7.png" width="150" height="150" />
-  <img src="img/image8.png" width="150" height="150" />
-</div>
+| ![Image 1](img/image1.png) | ![Image 2](img/image2.png) | ![Image 3](img/image3.png) | ![Image 4](img/image4.png) |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| ![Image 5](img/image5.png) | ![Image 6](img/image6.png) | ![Image 7](img/image7.png) | ![Image 8](img/image8.png) |
